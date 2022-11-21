@@ -1,0 +1,16 @@
+VTP Version capable             : 1 to 3
+VTP version running             : 2
+VTP Domain Name                 : CISCO
+VTP Pruning Mode                : Disabled
+VTP Traps Generation            : Disabled
+Device ID                       : aabb.cc01.6000
+Configuration last modified by 0.0.0.0 at 11-21-22 14:56:25
+
+Feature VLAN:
+--------------
+VTP Operating Mode                : Client
+Maximum VLANs supported locally   : 1005
+Number of existing VLANs          : 13
+Configuration Revision            : 10
+MD5 digest                        : 0xCB 0x7E 0x63 0x6C 0x78 0x59 0x9D 0xC4 
+                                    0x33 0xCB 0xB0 0x68 0x29 0xF7 0x6A 0xAA 
